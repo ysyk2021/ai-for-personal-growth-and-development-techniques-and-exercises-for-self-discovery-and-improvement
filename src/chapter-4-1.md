@@ -1,5 +1,3 @@
-Personalized Learning Paths using AI
-=================================================================================================
 
 AI technology can be used to enhance learning and skill development by providing personalized recommendations and support. This chapter will explore how AI can be leveraged to provide personalized learning paths using AI.
 

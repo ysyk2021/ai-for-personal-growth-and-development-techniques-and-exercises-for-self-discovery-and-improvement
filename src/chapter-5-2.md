@@ -1,5 +1,3 @@
-Automated Health Tracking and Analysis using AI
-=================================================================================================
 
 AI technology can be used to improve health and wellness by automating health tracking and analysis. This chapter will explore how AI can be leveraged to provide automated health tracking and analysis, leading to improved personal growth and development.
 

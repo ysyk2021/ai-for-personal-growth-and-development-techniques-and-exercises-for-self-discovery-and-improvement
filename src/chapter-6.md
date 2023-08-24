@@ -1,5 +1,3 @@
-Chapter 6: Managing Finances with AI
-====================================
 
 AI technology can be used to support financial planning and management by providing personalized recommendations and monitoring. This chapter will explore how AI can be leveraged to provide AI-powered financial planning and management, real-time monitoring, and alerts for financial goals.
 
