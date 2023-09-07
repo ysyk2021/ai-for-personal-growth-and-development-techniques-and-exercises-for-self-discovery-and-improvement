@@ -12,3 +12,7 @@ Throughout the book, we'll emphasize the importance of ethical considerations wh
 In short, "AI for Personal Growth and Development" is a comprehensive guidebook for anyone interested in using AI to enhance their personal and professional lives. Whether you're a seasoned self-improvement enthusiast or just getting started on your journey, this book will provide you with the knowledge and tools you need to achieve greater self-awareness, emotional intelligence, and personal growth.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
